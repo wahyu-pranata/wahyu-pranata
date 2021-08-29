@@ -1,5 +1,5 @@
-## Hello fellas!! 👋
-### I'm Wahyu Pranata :nerd_face:
+## Hello!!:wave:
+### I'm Wahyu Pranata :v:
 #### About me
 * Student at SMKN 1 Denpasar
 * Currently learning CSS and its frameworks
