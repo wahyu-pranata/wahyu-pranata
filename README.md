@@ -1,4 +1,4 @@
-## Hello!!:wave:
+## Hi!!:wave:
 ### I'm Wahyu Pranata :v:
 #### About me
 * Student at SMKN 1 Denpasar
@@ -6,8 +6,6 @@
 * New to github :v:
 ### My projects
 Currently i'm focusing on freecodecamp and all my freecodecamp projects are in my codepen, so don't forget to check it out :v:
-### Hobby
-I read some manga and watch anime. I do some sports too like cycling and badminton.
 ### Tools and Languages
 [<img align="left" alt="Visual Studio Code" width="30px" src="icons/vscode.svg" />](https://code.visualstudio.com/)
 [<img align="left" alt="HTML" width="30px" src="icons/html.svg" />](https://www.w3.org/html/)
