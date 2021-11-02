@@ -3,7 +3,6 @@
 #### About me
 * Student at SMKN 1 Denpasar
 * Currently learning CSS and its frameworks
-* New to github :v:
 #### My projects
 Currently i'm focusing on freecodecamp and all my freecodecamp projects are in my codepen, so don't forget to check it out :v:
 #### Tools and Languages
