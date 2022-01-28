@@ -2,7 +2,6 @@
 ### I'm Wahyu Pranata :v:
 #### About me
 * Student at SMKN 1 Denpasar
-* Currently focusing Vue
 #### My projects
 I don't have much project to do know. But i have some project on my [freecodecamp](https://www.freecodecamp.org/) and [codepen](https://codepen.io/terrabyted)
 #### Tools and Languages
