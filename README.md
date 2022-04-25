@@ -3,7 +3,7 @@
 #### About me
 * Student at SMKN 1 Denpasar
 #### My projects
-Currently working on "secret" project (spoiler!!: it is tribute page :v:)
+Currently learning Vue.js
 #### Tools and Languages
 [<img align="left" alt="Visual Studio Code" width="30px" src="icons/vscode.svg" />](https://code.visualstudio.com/)
 [<img align="left" alt="HTML" width="30px" src="icons/html.svg" />](https://www.w3.org/html/)
