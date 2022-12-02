@@ -1,12 +1,10 @@
 ## Hi!!:wave:
 ### I'm Wahyu Pranata :v:
 #### About me
-* Student at SMKN 1 Denpasar
-* Currently learning Vue.js
+* Software Engineering Student
+* Currently exploring Vue.js
 #### Tools and Languages
 [<img align="left" alt="Visual Studio Code" width="30px" src="icons/vscode.svg" />](https://code.visualstudio.com/)
-[<img align="left" alt="HTML" width="30px" src="icons/html.svg" />](https://www.w3.org/html/)
-[<img align="left" alt="CSS" width="30px" src="icons/css.svg" />](https://www.w3.org/TR/CSS/#css)
-[<img align="left" alt="Tailwind CSS" width="30px" src="icons/tailwindcss.svg" />](https://tailwindcss.com)
-[<img align="left" alt="Javascript" width="30px" src="icons/javascript.svg" />](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+[<img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/laravel/art/master/logo-mark/4%20PNG/3%20RGB/1%20Full%20Color/laravel-mark-rgb-red.png" />](https://laravel.com)
 [<img align="left" alt="VueJS" width="30px" src="icons/vuejs.png" />](https://vuejs.org)
+[<img align="left" alt="Tailwind CSS" width="30px" src="icons/tailwindcss.svg" />](https://tailwindcss.com)
